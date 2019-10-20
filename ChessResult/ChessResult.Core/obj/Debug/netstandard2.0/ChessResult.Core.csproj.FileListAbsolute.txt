@@ -1,0 +1,9 @@
+C:\Users\ADMIN\Downloads\ChessResult\ChessResult.Core\bin\Debug\netstandard2.0\ChessResult.Core.deps.json
+C:\Users\ADMIN\Downloads\ChessResult\ChessResult.Core\bin\Debug\netstandard2.0\ChessResult.Core.dll
+C:\Users\ADMIN\Downloads\ChessResult\ChessResult.Core\bin\Debug\netstandard2.0\ChessResult.Core.pdb
+C:\Users\ADMIN\Downloads\ChessResult\ChessResult.Core\obj\Debug\netstandard2.0\ChessResult.Core.csprojAssemblyReference.cache
+C:\Users\ADMIN\Downloads\ChessResult\ChessResult.Core\obj\Debug\netstandard2.0\ChessResult.Core.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\ChessResult\ChessResult.Core\obj\Debug\netstandard2.0\ChessResult.Core.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\ChessResult\ChessResult.Core\obj\Debug\netstandard2.0\ChessResult.Core.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\ChessResult\ChessResult.Core\obj\Debug\netstandard2.0\ChessResult.Core.dll
+C:\Users\ADMIN\Downloads\ChessResult\ChessResult.Core\obj\Debug\netstandard2.0\ChessResult.Core.pdb
