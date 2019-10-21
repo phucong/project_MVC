@@ -7,16 +7,14 @@ using System.Web.Mvc;
 
 namespace ChessResult.Site.Controllers.Admin
 {
-
     public class TournamentController : Controller
     {
         // GET: Tournament
         public ActionResult Index()
         {
             TournamentsViewModel tournamentsViewModel = new TournamentsViewModel();
-            
-            //return View("~/Views/Admin/Tournament/Index.cshtml");
-            return View(tournamentsViewModel);
+
+            return View("~/Views/Admin/Tournament/Index.cshtml");
         }
 
         // GET: Tournament/Details/5

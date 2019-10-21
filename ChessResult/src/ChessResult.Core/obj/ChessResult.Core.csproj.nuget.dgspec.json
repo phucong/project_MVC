@@ -49,10 +49,6 @@
               "target": "Package",
               "version": "[4.2.0, )"
             },
-            "Fanex.Data.SqlServer": {
-              "target": "Package",
-              "version": "[4.2.0, )"
-            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",

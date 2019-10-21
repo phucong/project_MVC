@@ -6,6 +6,7 @@ using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
 using Fanex.Data;
+using Fanex.Data.SqlServer;
 
 namespace ChessResult.Site
 {
@@ -20,8 +21,7 @@ namespace ChessResult.Site
 
             DbSettingProviderManager
                 .StartNewSession()
-                .UseDefaultConnectionStringProvider()
-                .UseDefaultDbSettingProvider(resourcePath: "~/App_Data/SPs")
+                .WithSqlServer(resourcePath: "~/App_Data/SPs")
                 .Run();
         }
     }
