@@ -7,3 +7,11 @@ C:\Users\ADMIN\Downloads\ChessResult\ChessResult.Core\obj\Debug\netstandard2.0\C
 C:\Users\ADMIN\Downloads\ChessResult\ChessResult.Core\obj\Debug\netstandard2.0\ChessResult.Core.AssemblyInfo.cs
 C:\Users\ADMIN\Downloads\ChessResult\ChessResult.Core\obj\Debug\netstandard2.0\ChessResult.Core.dll
 C:\Users\ADMIN\Downloads\ChessResult\ChessResult.Core\obj\Debug\netstandard2.0\ChessResult.Core.pdb
+D:\working\nexcel\projects\practice\project_MVC\ChessResult\src\ChessResult.Core\bin\Debug\netstandard2.0\ChessResult.Core.deps.json
+D:\working\nexcel\projects\practice\project_MVC\ChessResult\src\ChessResult.Core\bin\Debug\netstandard2.0\ChessResult.Core.dll
+D:\working\nexcel\projects\practice\project_MVC\ChessResult\src\ChessResult.Core\obj\Debug\netstandard2.0\ChessResult.Core.AssemblyInfoInputs.cache
+D:\working\nexcel\projects\practice\project_MVC\ChessResult\src\ChessResult.Core\obj\Debug\netstandard2.0\ChessResult.Core.AssemblyInfo.cs
+D:\working\nexcel\projects\practice\project_MVC\ChessResult\src\ChessResult.Core\obj\Debug\netstandard2.0\ChessResult.Core.csprojAssemblyReference.cache
+D:\working\nexcel\projects\practice\project_MVC\ChessResult\src\ChessResult.Core\bin\Debug\netstandard2.0\ChessResult.Core.pdb
+D:\working\nexcel\projects\practice\project_MVC\ChessResult\src\ChessResult.Core\obj\Debug\netstandard2.0\ChessResult.Core.dll
+D:\working\nexcel\projects\practice\project_MVC\ChessResult\src\ChessResult.Core\obj\Debug\netstandard2.0\ChessResult.Core.pdb
