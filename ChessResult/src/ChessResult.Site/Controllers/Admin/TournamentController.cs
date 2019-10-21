@@ -1,4 +1,5 @@
-﻿using ChessResult.Site.ViewModels.Admin;
+﻿using ChessResult.Core.Services;
+using ChessResult.Site.ViewModels.Admin;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,12 +10,21 @@ namespace ChessResult.Site.Controllers.Admin
 {
     public class TournamentController : Controller
     {
+        private readonly ITournamentService tournamentService;
+
+        public TournamentController(ITournamentService tournamentService)
+        {
+            this.tournamentService = tournamentService;
+        }
+           
         // GET: Tournament
         public ActionResult Index()
         {
-            TournamentsViewModel tournamentsViewModel = new TournamentsViewModel();
+            var tournaments = tournamentService.GetTournaments();
 
-            return View("~/Views/Admin/Tournament/Index.cshtml");
+            TournamentsViewModel tournamentsViewModel = new TournamentsViewModel(tournaments);
+
+            return View("~/Views/Admin/Tournament/Index.cshtml", tournamentsViewModel);
         }
 
         // GET: Tournament/Details/5

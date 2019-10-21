@@ -5,12 +5,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Repositories\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <Reference Include="Fanex.Data">
       <HintPath>..\..\dlls\Fanex.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Fanex.Data.Repository">
+      <HintPath>..\..\dlls\Fanex.Data.Repository.dll</HintPath>
     </Reference>
     <Reference Include="Fanex.Data.SqlServer">
       <HintPath>..\..\dlls\Fanex.Data.SqlServer.dll</HintPath>
