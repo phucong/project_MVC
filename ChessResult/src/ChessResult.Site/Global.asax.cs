@@ -5,6 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
+using Fanex.Data;
 
 namespace ChessResult.Site
 {
@@ -16,6 +17,12 @@ namespace ChessResult.Site
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+
+            DbSettingProviderManager
+                .StartNewSession()
+                .UseDefaultConnectionStringProvider()
+                .UseDefaultDbSettingProvider(resourcePath: "~/App_Data/SPs")
+                .Run();
         }
     }
 }
