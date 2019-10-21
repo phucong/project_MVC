@@ -9,6 +9,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Fanex.Data.Repository" Version="4.2.0" />
+    <Reference Include="Fanex.Data">
+      <HintPath>..\..\dlls\Fanex.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Fanex.Data.SqlServer">
+      <HintPath>..\..\dlls\Fanex.Data.SqlServer.dll</HintPath>
+    </Reference>
   </ItemGroup>
 </Project>

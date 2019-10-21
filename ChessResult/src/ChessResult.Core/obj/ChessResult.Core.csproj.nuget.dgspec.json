@@ -45,10 +45,6 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
-            "Fanex.Data.Repository": {
-              "target": "Package",
-              "version": "[4.2.0, )"
-            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",

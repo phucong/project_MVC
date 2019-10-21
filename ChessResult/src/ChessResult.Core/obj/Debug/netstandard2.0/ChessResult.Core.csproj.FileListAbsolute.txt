@@ -15,3 +15,6 @@ D:\working\nexcel\projects\practice\project_MVC\ChessResult\src\ChessResult.Core
 D:\working\nexcel\projects\practice\project_MVC\ChessResult\src\ChessResult.Core\bin\Debug\netstandard2.0\ChessResult.Core.pdb
 D:\working\nexcel\projects\practice\project_MVC\ChessResult\src\ChessResult.Core\obj\Debug\netstandard2.0\ChessResult.Core.dll
 D:\working\nexcel\projects\practice\project_MVC\ChessResult\src\ChessResult.Core\obj\Debug\netstandard2.0\ChessResult.Core.pdb
+D:\working\nexcel\projects\practice\project_MVC\ChessResult\src\ChessResult.Core\bin\Debug\netstandard2.0\Fanex.Data.dll
+D:\working\nexcel\projects\practice\project_MVC\ChessResult\src\ChessResult.Core\bin\Debug\netstandard2.0\Fanex.Data.SqlServer.dll
+D:\working\nexcel\projects\practice\project_MVC\ChessResult\src\ChessResult.Core\obj\Debug\netstandard2.0\ChessResult.Core.csproj.CopyComplete

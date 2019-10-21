@@ -155,7 +155,6 @@ D:\working\nexcel\projects\practice\project_MVC\ChessResult\src\ChessResult.Site
 D:\working\nexcel\projects\practice\project_MVC\ChessResult\src\ChessResult.Site\obj\Debug\ChessResult.Site.pdb
 D:\working\nexcel\projects\practice\project_MVC\ChessResult\src\ChessResult.Site\bin\Dapper.dll
 D:\working\nexcel\projects\practice\project_MVC\ChessResult\src\ChessResult.Site\bin\Fanex.Data.dll
-D:\working\nexcel\projects\practice\project_MVC\ChessResult\src\ChessResult.Site\bin\Fanex.Data.Repository.dll
 D:\working\nexcel\projects\practice\project_MVC\ChessResult\src\ChessResult.Site\bin\System.ValueTuple.dll
 D:\working\nexcel\projects\practice\project_MVC\ChessResult\src\ChessResult.Site\bin\Dapper.xml
 D:\working\nexcel\projects\practice\project_MVC\ChessResult\src\ChessResult.Site\bin\System.ValueTuple.xml
